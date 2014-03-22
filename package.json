@@ -1,0 +1,25 @@
+{
+    "name": "kit-walker",
+    "version": "0.0.1",
+    "author": "Hupo <hupotronic@gmail.com>",
+    "description": "Liberating images from the web of restraints.",
+    "license": "MIT",
+    "main": "./lib/index.js",
+    "dependencies": {
+        "hyperquest": "~0.3.0",
+        "optimist": "~0.6.1",
+        "phantomjs": "~1.9.7-1",
+    },
+    "devDependencies": {
+        "LiveScript": "~1.2.0",
+        "shelljs": "~0.2.6"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Hupotronic/kit-walker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Hupotronic/kit-walker/issues"
+    },
+    "homepage": "https://github.com/Hupotronic/kit-walker"
+}
